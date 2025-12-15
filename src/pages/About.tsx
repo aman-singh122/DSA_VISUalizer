@@ -82,14 +82,14 @@ const About = () => {
         </CardHeader>
         <CardContent className="text-center">
           <p className="text-lg text-slate-700 dark:text-slate-300 max-w-2xl mx-auto">
-            Built by <span className="font-semibold">Nitin Verma</span>, a Full
-            Stack Developer passionate about Web Development, AI, Web3, and
-            Open-Source contributions.
+            Built by <span className="font-semibold">Aman Kumar Singh</span>, a Full
+            Stack Developer passionate about Web Development, AI,  and
+         
           </p>
 
           <div className="mt-8 flex justify-center gap-5 text-2xl">
             <Button variant="ghost" asChild>
-              <a href="https://github.com/Nitinverma9784" target="_blank">
+              <a href="" target="_blank">
                 <FontAwesomeIcon
                   icon={faGithub}
                   className="text-slate-800 dark:text-white hover:scale-110 transition"
@@ -99,7 +99,7 @@ const About = () => {
 
             <Button variant="ghost" asChild>
               <a
-                href="https://www.linkedin.com/in/nitin-verma-558ba5276/"
+                href=""
                 target="_blank"
               >
                 <FontAwesomeIcon
@@ -110,7 +110,7 @@ const About = () => {
             </Button>
 
             <Button variant="ghost" asChild>
-              <a href="https://x.com/ImKakashi106" target="_blank">
+              <a href="" target="_blank">
                 <FontAwesomeIcon
                   icon={faXTwitter}
                   className="text-slate-500 hover:scale-110 transition"
@@ -120,7 +120,7 @@ const About = () => {
 
             <Button variant="ghost" asChild>
               <a
-                href="https://www.instagram.com/nitinverma9401/"
+                href=""
                 target="_blank"
               >
                 <FontAwesomeIcon
